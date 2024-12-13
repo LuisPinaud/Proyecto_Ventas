@@ -31,4 +31,4 @@ El sistema está diseñado para realizar la venta de uno o más productos del mi
 Sigue estos pasos para ejecutar el proyecto:
 
 1. Clona este repositorio:
-   git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+   git clone https://github.com/LuisPinaud/Proyecto_Ventas.git
